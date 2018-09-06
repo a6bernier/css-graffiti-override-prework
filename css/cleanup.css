@@ -1,1 +1,5 @@
 /* write your override styles here */
+
+img=[.class ="tag-1"] {
+  display:none;
+}
